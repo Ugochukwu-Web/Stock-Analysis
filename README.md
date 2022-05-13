@@ -1,7 +1,9 @@
 # Stock-Analysis
-Created a panel dashboard of twitter, nvidia, tesla and nasdaq100 stocks# EDA and Panel Dashboard
+Created a panel dashboard of twitter, nvidia, tesla and nasdaq100 stocks
 
-This is a solution to the whitebeltanalyst project. White belt analysts challenges help you improve your coding and analysis skills by building realistic projects. 
+# EDA and Panel Dashboard
+
+This is a solution to the white belt analyst project. These challenges help you improve your coding and analysis skills by building realistic projects. 
 
 ## Table of contents
 
@@ -60,8 +62,8 @@ Can't wait for when it becomes easier to source a panel .ipynb or .py file into 
 
 ## Author
 
-- Twitter - [@-EightKing](https://www.twitter.com/yourusername)
+- Twitter - [Ugochukwu](https://www.twitter.com/_EightKing)
 
 ## Acknowledgments
 
-Thanks to the developers contributing to panel development. Thanks to thu vu for the wonderful video that got me interested in dashboarding with python. Shout out to the white belt analysts, Bolu, Homo, Mubarak Adigun for pushing me.
+Thanks to the developers contributing to panel development. Thanks to Thu Vu for the wonderful video that got me interested in dashboarding with python. Shout out to the white belt analysts, Bolu, Homo, and Mubarak Adigun for pushing me.
