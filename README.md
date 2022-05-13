@@ -27,7 +27,7 @@ Create a dashboard using any tool of your choice to analyze tech stock (between 
 
 ### Screenshot
 
-![](/Images/Stock_Trend.png)
+![StockTrend](./Images/Stock_Trend.png)
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
@@ -35,7 +35,7 @@ Create a dashboard using any tool of your choice to analyze tech stock (between 
 
 ### Links
 
-- To view the static dashboard use the dashboard.html file
+- To view the static dashboard use the [dashboard](./panel_static_dashboard.html) file
 
 ## My process
 
