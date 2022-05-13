@@ -27,7 +27,7 @@ Create a dashboard using any tool of your choice to analyze tech stock (between 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/Images/Stock_Trend.png)
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
